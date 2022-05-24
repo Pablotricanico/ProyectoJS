@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "nombre": "Coca-Cola",
+      "precio": "60"
+    },
+    {
+      "id": "2",
+      "nombre": "Papas Fritas",
+      "precio": "100"
+    },
+    {
+      "id": "3",
+      "nombre": "Alfajor Oreo",
+      "precio": "40"
+    },
+    {
+      "id": "4",
+      "nombre": "Agua Mineral",
+      "precio": "40"
+    },
+    {
+      "id": "5",
+      "nombre": "Galletitas",
+      "precio": "65"
+    },
+    {
+      "id": "6",
+      "nombre": "Pan",
+      "precio": "50"
+    }
+  ]

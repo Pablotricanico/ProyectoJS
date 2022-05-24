@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem;
+}
+.img {
+  width: 4vw;
+}
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#buscador{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.seccion {
+  display: flex;
+  justify-content: center;
+}
+.productos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 2rem;
+}
+.card{
+  padding: 4rem;
+}
+.btn-block{
+  width: 100%;
+}
